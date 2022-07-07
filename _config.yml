@@ -105,8 +105,8 @@ analytics:
 # Site Author
 author:
   name             : "Jeff Hwang"
-  avatar           : "C:/Users/taesa/Desktop/panthom.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "☆ﾟ･*:.｡.☆†_(ﾟ▽ﾟ*)β"
+  avatar           : "/assets/images/bio.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "키보드 두들기는 사람""☆ﾟ･*:.｡.☆†_(ﾟ▽ﾟ*)β"
   location         : "Seongnam"
   email            : "jeffhwang0403@gmail.com"
   links:
@@ -127,7 +127,7 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+       url: "https://instagram.com/kasi_wa_check"
 
 # Site Footer
 footer:
