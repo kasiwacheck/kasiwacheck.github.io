@@ -106,14 +106,13 @@ analytics:
 author:
   name             : "Jeff Hwang"
   avatar           : "/assets/panthom.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "키보드 두들기는 사람
-                      ☆ﾟ･*:.｡.☆†_(ﾟ▽ﾟ*)β"
+  bio              : "☆ﾟ･*:.｡.☆†_(ﾟ▽ﾟ*)β"
   location         : "Seongnam"
   email            : "jeffhwang0403@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "mailto:jeffhwang0403@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
